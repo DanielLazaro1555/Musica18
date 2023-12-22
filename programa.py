@@ -47,9 +47,14 @@ def extraer_metadatos_en_directorio(directorio):
 
         # Listar archivos en el directorio y ordenarlos por número de pista
         archivos_flac = sorted(
-            [archivo for archivo in os.listdir(directorio) if archivo.lower().endswith(".flac")],
+            [archivo for archivo in os.listdir(directorio) if (archivo.lower().endswith(".flac") or not os.path.splitext(archivo)[1]) and not archivo.lower().endswith(".jpg")],
             key=lambda x: int(os.path.splitext(x)[0].split('_')[-1]) if '_' in os.path.splitext(x)[0] else float('inf')
         )
+        #Ordenar la lista por "descripcion"
+        archivos_flac = sorted(archivos_flac, key=lambda x: x.split('_')[0])
+
+        # Ordenar por "descripcion" de menor a mayor
+        archivos_flac = sorted(archivos_flac, key=lambda x: x.split('_')[0])
 
         if archivos_flac:
             # Hay archivos FLAC en el directorio
