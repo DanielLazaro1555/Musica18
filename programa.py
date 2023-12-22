@@ -14,9 +14,13 @@ def obtener_metadatos_flac(ruta_archivo, numero_descripcion, numero_pista, total
             # Construir la ruta de la imagen
             ruta_imagen = os.path.join("Albums", f"{numero_descripcion}.jpg")
 
+            # Incluir el directorio y la extensión en la clave "archivo_musica"
+            archivo_musica = os.path.join("Albums", os.path.basename(ruta_archivo))
+            
+
             # Crear un diccionario con los metadatos
             metadatos = {
-                "archivo_musica": os.path.basename(ruta_archivo),
+                "archivo_musica": os.path.join("Albums", os.path.basename(ruta_archivo)),
                 "descripcion": numero_descripcion,
                 "imagen": ruta_imagen,
                 "genero": archivo_flac.get("genre", [""])[0],
