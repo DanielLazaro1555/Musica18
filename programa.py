@@ -36,7 +36,6 @@ def obtener_metadatos_flac(ruta_archivo, numero_descripcion, numero_pista, total
             for clave, valor in metadatos.items():
                 print(f'    "{clave}": "{valor}",')
             print("},")
-            print("------------------------")
         else:
             print(f"{ruta_archivo} no es un archivo FLAC válido.")
     except Exception as e:
