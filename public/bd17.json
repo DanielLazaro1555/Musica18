@@ -524,6 +524,211 @@
         "titulo": "Starboy [feat. Daft Punk] [Explicit]",
         "artista": "The Weeknd feat. Daft Punk",
         "album": "Starboy [Explicit]",
-        "numero_de_pista": "1/1"
+        "numero_de_pista": "1/18",
+        "Año": "2016"
+    },
+    
+    {
+        "archivo_musica": "Albums/198274443_2.flac",
+        "descripcion": "198274443",
+        "imagen": "Albums/198274443.jpg",
+        "genero": "R&B/General",
+        "titulo": "Party Monster [Explicit]",
+        "artista": "The Weeknd",
+        "album": "Starboy [Explicit]",
+        "numero_de_pista": "2/18",
+        "Año": "2016"
+    },
+    
+    {
+        "archivo_musica": "Albums/198274443_3.flac",
+        "descripcion": "198274443",
+        "imagen": "Albums/198274443.jpg",
+        "genero": "R&B/General",
+        "titulo": "False Alarm",
+        "artista": "The Weeknd",
+        "album": "Starboy [Explicit]",
+        "numero_de_pista": "3/18",
+        "Año": "2016"
+    },
+    
+    {
+        "archivo_musica": "Albums/198274443_4.flac",
+        "descripcion": "198274443",
+        "imagen": "Albums/198274443.jpg",
+        "genero": "R&B/General",
+        "titulo": "Reminder [Explicit]",
+        "artista": "The Weeknd",
+        "album": "Starboy [Explicit]",
+        "numero_de_pista": "4/18",
+        "Año": "2016"
+    },
+    
+    {
+        "archivo_musica": "Albums/198274443_5.flac",
+        "descripcion": "198274443",
+        "imagen": "Albums/198274443.jpg",
+        "genero": "R&B/General",
+        "titulo": "Rockin’ [Explicit]",
+        "artista": "The Weeknd",
+        "album": "Starboy [Explicit]",
+        "numero_de_pista": "5/18",
+        "Año": "2016"
+    },
+    
+    {
+        "archivo_musica": "Albums/198274443_6.flac",
+        "descripcion": "198274443",
+        "imagen": "Albums/198274443.jpg",
+        "genero": "R&B/General",
+        "titulo": "Secrets",
+        "artista": "The Weeknd",
+        "album": "Starboy [Explicit]",
+        "numero_de_pista": "6/18",
+        "Año": "2016"
+    },
+    
+    {
+        "archivo_musica": "Albums/198274443_7.flac",
+        "descripcion": "198274443",
+        "imagen": "Albums/198274443.jpg",
+        "genero": "R&B/General",
+        "titulo": "True Colors",
+        "artista": "The Weeknd",
+        "album": "Starboy [Explicit]",
+        "numero_de_pista": "7/18",
+        "Año": "2016"
+    },
+    
+    {
+        "archivo_musica": "Albums/198274443_8.flac",
+        "descripcion": "198274443",
+        "imagen": "Albums/198274443.jpg",
+        "genero": "R&B/General",
+        "titulo": "Stargirl Interlude [feat. Lana Del Rey]",
+        "artista": "The Weeknd feat. Lana Del Rey",
+        "album": "Starboy [Explicit]",
+        "numero_de_pista": "8/18",
+        "Año": "2016"
+    },
+    
+    {
+        "archivo_musica": "Albums/198274443_9.flac",
+        "descripcion": "198274443",
+        "imagen": "Albums/198274443.jpg",
+        "genero": "R&B/General",
+        "titulo": "Sidewalks [feat. Kendrick Lamar] [Explicit]",
+        "artista": "The Weeknd feat. Kendrick Lamar",
+        "album": "Starboy [Explicit]",
+        "numero_de_pista": "9/18",
+        "Año": "2016"
+    },
+    
+    {
+        "archivo_musica": "Albums/198274443_10.flac",
+        "descripcion": "198274443",
+        "imagen": "Albums/198274443.jpg",
+        "genero": "R&B/General",
+        "titulo": "Six Feet Under [Explicit]",
+        "artista": "The Weeknd",
+        "album": "Starboy [Explicit]",
+        "numero_de_pista": "10/18",
+        "Año": "2016"
+    },
+    
+    {
+        "archivo_musica": "Albums/198274443_11.flac",
+        "descripcion": "198274443",
+        "imagen": "Albums/198274443.jpg",
+        "genero": "R&B/General",
+        "titulo": "Love To Lay",
+        "artista": "The Weeknd",
+        "album": "Starboy [Explicit]",
+        "numero_de_pista": "11/18",
+        "Año": "2016"
+    },
+    
+    {
+        "archivo_musica": "Albums/198274443_12.flac",
+        "descripcion": "198274443",
+        "imagen": "Albums/198274443.jpg",
+        "genero": "R&B/General",
+        "titulo": "A Lonely Night",
+        "artista": "The Weeknd",
+        "album": "Starboy [Explicit]",
+        "numero_de_pista": "12/18",
+        "Año": "2016"
+    },
+    
+    {
+        "archivo_musica": "Albums/198274443_13.flac",
+        "descripcion": "198274443",
+        "imagen": "Albums/198274443.jpg",
+        "genero": "R&B/General",
+        "titulo": "Attention [Explicit]",
+        "artista": "The Weeknd",
+        "album": "Starboy [Explicit]",
+        "numero_de_pista": "13/18",
+        "Año": "2016"
+    },
+    
+    {
+        "archivo_musica": "Albums/198274443_14.flac",
+        "descripcion": "198274443",
+        "imagen": "Albums/198274443.jpg",
+        "genero": "R&B/General",
+        "titulo": "Ordinary Life [Explicit]",
+        "artista": "The Weeknd",
+        "album": "Starboy [Explicit]",
+        "numero_de_pista": "14/18",
+        "Año": "2016"
+    },
+    
+    {
+        "archivo_musica": "Albums/198274443_15.flac",
+        "descripcion": "198274443",
+        "imagen": "Albums/198274443.jpg",
+        "genero": "R&B/General",
+        "titulo": "Nothing Without You",
+        "artista": "The Weeknd",
+        "album": "Starboy [Explicit]",
+        "numero_de_pista": "15/18",
+        "Año": "2016"
+    },
+    
+    {
+        "archivo_musica": "Albums/198274443_16.flac",
+        "descripcion": "198274443",
+        "imagen": "Albums/198274443.jpg",
+        "genero": "R&B/General",
+        "titulo": "All I Know [feat. Future] [Explicit]",
+        "artista": "The Weeknd feat. Future",
+        "album": "Starboy [Explicit]",
+        "numero_de_pista": "16/18",
+        "Año": "2016"
+    },
+    
+    {
+        "archivo_musica": "Albums/198274443_17.flac",
+        "descripcion": "198274443",
+        "imagen": "Albums/198274443.jpg",
+        "genero": "R&B/General",
+        "titulo": "Die For You",
+        "artista": "The Weeknd",
+        "album": "Starboy [Explicit]",
+        "numero_de_pista": "17/18",
+        "Año": "2016"
+    },
+    
+    {
+        "archivo_musica": "Albums/198274443_18.flac",
+        "descripcion": "198274443",
+        "imagen": "Albums/198274443.jpg",
+        "genero": "R&B/General",
+        "titulo": "I Feel It Coming [feat. Daft Punk]",
+        "artista": "The Weeknd feat. Daft Punk",
+        "album": "Starboy [Explicit]",
+        "numero_de_pista": "18/18",
+        "Año": "2016"
     }
 ]
